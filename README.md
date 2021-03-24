@@ -48,6 +48,7 @@ THEN I am automatically signed out of the site
 
 ## Website Link
 
+Check out the deployed app at https://afternoon-river-53395.herokuapp.com/
 
 
 ## Screenshot
