@@ -53,7 +53,7 @@ Check out the deployed app at https://afternoon-river-53395.herokuapp.com/
 
 ## Screenshot
 
-![screenshot]()
+![screenshot](https://github.com/kara-krzystan/tech-blog/blob/main/public/screenshot.png)
 
 ## Built With
 
