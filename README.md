@@ -2,7 +2,7 @@
 
 ## Description
 
-My challenge this week was to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. The site is built completely from scratch and deployed to Heroku. The app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+My challenge this week was to build a CMS-style blog similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. The site is built completely from scratch and deployed to Heroku. The app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 ## User Story
 
